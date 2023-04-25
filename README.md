@@ -1,6 +1,11 @@
-# pokedex
+# Pokedex 
 
-A new Flutter project.
+A Flutter project using SQLite to save Pokemon's information.
+
+# Packages Used
+ * [Path Provider](https://pub.dev/packages/path_provider): Finding commonly used locations on the filesystem.
+ * [Path](https://pub.dev/packages/path): Provides functions to define the location for storing the database on disk.
+ * [SQLite](https://pub.dev/packages/sqflite): Provides classes and functions to interact with a SQLite database.
 
 ## Getting Started
 
